@@ -1,0 +1,11 @@
+### Intellij IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+
+.DS_Store
+.idea
+challenge-algorithms.iml
